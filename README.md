@@ -15,7 +15,7 @@ Once downloaded, open the BMC4 instance folder
 Open the mods folder
 <img width="1985" height="615" alt="image" src="https://github.com/user-attachments/assets/ac2f9ee7-7e7e-4a63-a057-81a802d8fac6" />
 # Step 6
-Download the Modpack.zip file from this repository.
+Download the Modpack.zip file using this link https://drive.google.com/file/d/1KOUSEgHeRFFKZS52CJCPaC2PrJu3E57E/view?usp=sharing
 # Step 7
 Copy the contents from the Modpack.zip folder and paste them into your instance mods folder
 <img width="1766" height="597" alt="image" src="https://github.com/user-attachments/assets/62ed8afb-d067-4577-9798-8aed8429ad5a" />
